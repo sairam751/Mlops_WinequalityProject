@@ -1,3 +1,5 @@
 fvenv/
 logs/
 artifacts/
+src/datascience/__pycache__/
+*.pyc
